@@ -14,6 +14,7 @@ namespace IntegracaoGithub
         [STAThread]
         static void Main()
         {
+            // teste de integracao
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
